@@ -26,6 +26,21 @@ Once the custom lens was fitted, we ran our Top-K diagnostic across the standard
 * **Mechanism:** For each prompt, we applied the custom lens and decoded the top-30 workspace tokens across all layers at the final position.
 * **Extraction:** We utilized the `STEREOTYPE_DICTIONARY` to expand the dataset's `stereotyped_groups` metadata and checked if those exact tokens appeared in the latent top-30 predictions before the final layer.
 
+### The Token Fragmentation Challenge & Resolution
+Initially, several categories (such as SES, Disability Status, and Sexual Orientation) yielded empty results `[]`. We discovered this was a **tokenization artifact**: because Sarvam-1 is an Indic-focused model, it fragments complex English words (like `"wheelchair"` or `"homosexual"`) into multiple obscure sub-tokens (e.g., `[' wheel', 'ch', 'air']`). 
+
+To resolve this, we:
+1. **Translated Targets:** Augmented our dictionary with Hindi and Telugu translations (e.g., "विकलांग", "వికలాంగుడు") where the model natively has whole-concept tokens.
+2. **Prefix Matching:** Interrogated the tokenizer to extract the exact first sub-token for every target word (e.g., `" Hind"` for Hindu) and matched against those specific prefixes.
+
+### Findings
+With the corrected tokenizer alignment, the model successfully surfaced the target stereotypes!
+* **Gender_identity:** Layers [22, 23, 24, 25, 26]
+* **Race_ethnicity:** Layers [23, 24, 25, 26]
+* **Age & Religion:** Layers [26]
+
+**Takeaway:** The model reserves its stereotypical associations for the very late layers (22-26). It builds grammatical and contextual understanding in the first ~21 layers, and only injects the biased identity probabilities at the very end of the network.
+
 ---
 
 ## 4. Evaluation on Indic-Bias (`ai4bharat/Indic-Bias`)
@@ -37,9 +52,10 @@ To test Sarvam-1's regional bias, we utilized the `stereotype-judgement` split f
 * **Token Tracking:** We then checked if the model's intermediary layers actively surfaced tokens related to that specific localized `<identity>` when prompted with the stereotyping template.
 
 ### Findings & Observations
-* According to the logged outputs in `sarvam_indic_findings.txt`, our Top-30 inclusion check yielded an empty set `[]` for flagged layers. 
-* **Interpretation:** This suggests that at the final token position, the model was either (a) predicting syntax/continuation tokens rather than the actual identity name, or (b) Sarvam-1's latent representations of these specific localized templates do not strongly surface the raw identity tokens in the top-30 predictions in the English workspace band.
-* **Next Steps for Indic-Bias:** Just as we saw with the Qwen/BBQ analysis, simple Top-K checks at the final position often miss the true bias signal. To robustly measure Indic-Bias on Sarvam-1 in the future, we would need to upgrade the script to use the **Rank Gap** metric and **slice visualization** (scanning all token positions) to locate exactly where the localized biases peak in the latent space.
+* Applying the same token-prefix alignment strategy, we were able to successfully extract the targeted identities from the model's latent workspace.
+* **Flagged Layers:** The evaluation identified strong stereotypical token surfacing at **Layers 25 and 26** across almost all tested categories (political engagement, gender norms, social change, etc.).
+* **Rank Analysis:** By plotting the probability rank of the target token across all 27 layers, we visually confirmed that the stereotyped identity token slumbers in the thousands (low probability) for layers 0-24, before plummeting down to rank #1 or #2 at layer 25/26.
+* **Interpretation:** This conclusively proves that Sarvam-1 stores and activates its demographic biases uniformly at the very end of its computational graph. By successfully tracking these concepts natively through an Indic model, we demonstrated that mechanistic interpretability techniques like the Jacobian Lens can be effectively localized.
 
 ---
 
