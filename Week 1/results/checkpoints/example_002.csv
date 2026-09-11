@@ -1,0 +1,481 @@
+example_id,example_name,category,prompt,layer,readout,position,source_token,top1_token,rank
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,1,:,colon,61
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,2, The,e,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,3, long, long,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,5, body, Body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,6, part, parts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,7, that, â,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,8, the,i,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,12, uses, materials,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,13, to, TO,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,16, up, up,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,17, is, being,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,18, called,的,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,0,jacobian_lens,19, a, fa,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,1,:,flu,29
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,2, The, Crown,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,3, long, long,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,6, part, parts,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,7, that, â,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,8, the,i,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,12, uses, materials,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,13, to,very,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,16, up, pretty,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,17, is, being,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,18, called, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,1,jacobian_lens,19, a,ftar,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,1,:,黄花,10
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,2, The, Forest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,3, long, long,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,6, part, parts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,7, that, that,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,8, the, people,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,12, uses, used,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,13, to,everything,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,16, up, pretty,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,17, is, being,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,18, called, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,2,jacobian_lens,19, a, America,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,1,:, NYT,24
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,2, The, Forest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,3, long,ness,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,6, part, parts,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,7, that,Ã,31
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,8, the, they,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,12, uses, tools,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,13, to,everything,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,16, up, guys,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,17, is, being,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,18, called, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,3,jacobian_lens,19, a,ña,10
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,1,:, NYT,17
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,2, The, Crown,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,3, long,ness,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,6, part, parts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,7, that, that,5
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,8, the, they,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,12, uses, used,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,13, to,ıt,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,16, up, kids,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,17, is, that,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,18, called, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,4,jacobian_lens,19, a, America,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,1,:, Fact,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,2, The, Crown,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,3, long,ness,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,7, that, that,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,8, the, people,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,12, uses, uses,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,13, to, keep,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,17, is, this,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,18, called, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,5,jacobian_lens,19, a, baseball,8
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,0,Fact, itself,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,1,:, Fact,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,2, The, Crown,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,3, long,ness,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,6, part, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,7, that, that,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,8, the, people,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,12, uses, equipment,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,17, is, insects,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,6,jacobian_lens,19, a, dinosaur,5
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,1,:, Fact,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,2, The, Crown,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,3, long, longest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,6, part, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,7, that, verte,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,8, the, tubes,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,12, uses, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,17, is, insects,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,7,jacobian_lens,19, a, dolls,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,0,Fact,adro,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,1,:, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,2, The, Crown,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,3, long, longest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,7, that, called,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,8, the, children,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,12, uses, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,17, is, canoe,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,8,jacobian_lens,19, a, eagle,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,0,Fact, Property,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,1,:, Facts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,2, The, Science,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,3, long, longest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,7, that, verte,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,8, the, children,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,12, uses, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,13, to, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,14, pick, pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,17, is, tool,6
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,9,jacobian_lens,19, a, wire,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,0,Fact,eur,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,1,:, Facts,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,2, The, People,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,3, long, longest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,6, part, called,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,7, that, verte,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,8, the, humans,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,12, uses, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,17, is, tool,6
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,10,jacobian_lens,19, a, claws,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,0,Fact, Fact,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,1,:, Facts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,2, The, British,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,3, long, longest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,5, body, body,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,7, that, verte,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,8, the, animals,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,12, uses, technique,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,17, is, insects,12
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,18, called,叫做,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,11,jacobian_lens,19, a, claws,5
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,1,:, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,2, The, British,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,3, long, longest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,5, body, body,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,7, that, verte,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,8, the, children,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,12, uses, uses,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,13, to, weapons,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,17, is, called,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,18, called,叫做,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,12,jacobian_lens,19, a, claws,7
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,1,:, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,2, The, Museum,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,3, long, longest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,5, body, body,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,7, that, verte,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,8, the, humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,12, uses, uses,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,13, to, transport,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,17, is, called,12
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,18, called,叫做,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,13,jacobian_lens,19, a, claws,14
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,0,Fact,dpa,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,1,:, Facts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,2, The, Tree,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,3, long, longest,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,5, body,body,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,7, that, used,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,8, the, humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,9, largest, largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,10, land, land,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,12, uses, uses,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,13, to, transport,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,17, is, called,6
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,18, called,叫什么,17
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,14,jacobian_lens,19, a, shovel,37
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,1,:, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,2, The, University,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,3, long,ness,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,5, body,body,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,7, that, used,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,8, the, humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,9, largest, largest,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,10, land, mammals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,11, animal, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,12, uses, equipment,4
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,13, to, transport,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,15, things, things,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,16, up, pickup,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,17, is, called,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,18, called,叫什么,84
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,15,jacobian_lens,19, a, leash,34
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,2, The, University,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,3, long,ness,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,5, body,guard,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,6, part, of,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,7, that, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,9, largest, sizes,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,11, animal, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,13, to, communicate,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,15, things, like,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,16, up, from,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,18, called,叫什么,115
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,16,jacobian_lens,19, a, claws,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,2, The, Pentagon,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,3, long,long,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,5, body,body,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,6, part, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,9, largest, sizes,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,13, to, transport,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,15, things, snacks,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,18, called, belly,31
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,17,jacobian_lens,19, a, claws,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,0,Fact, Fact,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,2, The, Largest,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,3, long,long,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,4, flexible, flexible,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,5, body,body,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,6, part, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,9, largest, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,11, animal, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,13, to, navigate,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,14, pick,pick,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,15, things, from,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,16, up,lift,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,18, called, penis,17
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,18,jacobian_lens,19, a, claws,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,0,Fact,oring,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,2, The, Pentagon,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,3, long, long,2
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,4, flexible, cables,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,5, body,parts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,9, largest, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,11, animal, eats,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,13, to, navigate,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,14, pick, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,15, things, eats,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,18, called, claws,7
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,19,jacobian_lens,19, a, claws,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,0,Fact,oring,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,2, The, World,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,3, long, term,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,4, flexible, cables,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,5, body, segments,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,9, largest, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,11, animal, eats,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,13, to, navigate,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,14, pick, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,15, things, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,18, called, claws,6
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,20,jacobian_lens,19, a, claws,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,0,Fact,oring,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,1,:, Humans,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,2, The, average,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,3, long, term,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,4, flexible, cable,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,5, body, parts,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,8, the, muscles,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,9, largest, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,10, land, animals,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,11, animal, eats,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,13, to, move,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,14, pick, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,15, things, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,18, called, claws,20
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,21,jacobian_lens,19, a, claws,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,0,Fact,oring,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,1,:, The,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,2, The, United,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,3, long, term,3
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,4, flexible, cable,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,5, body, parts,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,7, that, connects,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,8, the, brain,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,9, largest, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,10, land, animal,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,11, animal, eats,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,13, to, breathe,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,14, pick, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,15, things, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,18, called, a,7
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,22,jacobian_lens,19, a, paw,9
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,0,Fact,oring,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,1,:, The,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,2, The, number,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,3, long, term,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,4, flexible, cable,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,5, body, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,6, part, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,7, that, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,8, the, brain,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,9, largest, of,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,10, land, animal,1
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,11, animal, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,12, uses, to,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,13, to, move,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,14, pick, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,15, things, up,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,16, up, is,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,17, is, called,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,18, called, a,0
+example_002,animal-nose-elephant,animal-nose,Fact: The long flexible body part that the largest land animal uses to pick things up is called a,23,model_output,19, a, tail,7

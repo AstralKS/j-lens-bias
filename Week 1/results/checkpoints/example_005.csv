@@ -1,0 +1,433 @@
+example_id,example_name,category,prompt,layer,readout,position,source_token,top1_token,rank
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,1,:,colon,61
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,2, The,e,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,3, b, hb,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,4,ony,ony,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,6, that, â,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,8,ases,s,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,9, the, east,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,12, for, instance,73
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,13, thinking, thinking,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,14, and,s,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,16, is, being,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,0,jacobian_lens,17, the, name,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,1,:,flu,29
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,2, The, Crown,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,4,ony,ony,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,6, that, â,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,8,ases, latter,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,9, the,i,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,12, for, hoá,51
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,13, thinking, things,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,14, and,s,9
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,16, is, being,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,1,jacobian_lens,17, the, series,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,1,:,黄花,10
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,2, The, Forest,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,3, b, hb,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,4,ony,bone,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,6, that, â,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,8,ases,e,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,9, the, the,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,12, for, many,27
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,13, thinking, thinking,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,14, and,s,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,16, is, being,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,2,jacobian_lens,17, the, Americans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,1,:, NYT,24
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,2, The, Forest,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,6, that,ists,19
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,8,ases, latter,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,9, the,kh,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,12, for, specialised,66
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,13, thinking, thinking,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,14, and,s,15
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,16, is, being,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,3,jacobian_lens,17, the, people,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,1,:, NYT,17
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,2, The, Crown,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,6, that,ists,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,7, enc,enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,8,ases, envelop,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,9, the, photographer,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,12, for, death,32
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,13, thinking, thinking,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,14, and,s,4
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,16, is, is,4
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,4,jacobian_lens,17, the, Americans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,1,:, Fact,9
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,2, The, Crown,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,6, that,ists,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,7, enc,enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,8,ases, encaps,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,9, the, crown,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,12, for, death,10
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,13, thinking, thinking,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,14, and,s,7
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,16, is,omorphic,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,5,jacobian_lens,17, the, American,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,0,Fact, itself,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,1,:, Fact,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,2, The, Crown,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,6, that, verte,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,8,ases, encaps,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,9, the, tub,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,12, for, anatom,4
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,13, thinking, mind,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,14, and, psychologists,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,16, is,omorphic,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,6,jacobian_lens,17, the, American,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,1,:, Fact,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,2, The, Crown,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,6, that, verte,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,8,ases, envelop,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,9, the, tub,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,10, organ, organ,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,12, for, reproductive,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,13, thinking, mind,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,14, and, psychologists,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,16, is, cortex,4
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,7,jacobian_lens,17, the, eagle,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,0,Fact,adro,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,1,:, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,2, The, Crown,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,3, b,ishing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,6, that, verte,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,7, enc, enc,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,8,ases, envelop,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,9, the, nucleus,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,12, for, reproductive,9
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,13, thinking, brain,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,14, and, psychologists,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,16, is, cortex,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,8,jacobian_lens,17, the, membran,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,0,Fact, Property,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,1,:, Facts,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,2, The, Science,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,3, b,ura,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,6, that, verte,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,7, enc, enc,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,8,ases, shields,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,9, the, nucleus,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,12, for, reproductive,5
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,14, and, psychologists,10
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,16, is, cortex,6
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,9,jacobian_lens,17, the, womb,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,0,Fact,eur,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,1,:, Facts,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,2, The, People,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,3, b,ura,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,6, that, verte,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,7, enc,shield,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,9, the, tub,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,12, for, reproductive,7
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,14, and, psychologists,11
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,16, is, located,7
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,10,jacobian_lens,17, the, name,4
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,0,Fact, Fact,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,1,:, Facts,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,2, The, British,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,3, b,ura,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,5, structure, structure,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,6, that, verte,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,7, enc,shield,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,9, the, tub,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,12, for, reproductive,7
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,14, and, psychologists,11
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,16, is, anatom,13
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,11,jacobian_lens,17, the, name,8
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,1,:, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,2, The, British,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,3, b,ura,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,6, that, verte,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,7, enc,shield,2
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,9, the, nucleus,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,12, for, urinary,11
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,14, and, psychologists,9
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,16, is, anatom,27
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,12,jacobian_lens,17, the, anatom,13
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,1,:, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,2, The, Museum,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,3, b,osph,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,6, that, verte,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,7, enc,shield,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,9, the, nucleus,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,12, for, urinary,18
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,14, and, sciences,8
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,16, is, anatom,15
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,13,jacobian_lens,17, the, anatom,39
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,0,Fact,dpa,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,1,:, Facts,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,2, The, Tree,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,3, b,osph,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,6, that, used,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,7, enc,shield,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,11, responsible, responsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,12, for, urinary,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,13, thinking, neuroscience,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,14, and, psychology,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,16, is, called,8
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,14,jacobian_lens,17, the, anatom,58
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,1,:, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,2, The, University,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,3, b,osph,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,6, that, was,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,7, enc,shield,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,8,ases, shields,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,9, the, fetus,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,11, responsible, healthcare,18
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,12, for, physiological,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,14, and, neuroscience,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,16, is, called,8
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,15,jacobian_lens,17, the, anatom,25
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,2, The, University,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,3, b,owl,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,7, enc,shield,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,8,ases, glands,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,11, responsible, responsible,5
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,12, for, digestive,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,14, and, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,16,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,2, The, Pentagon,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,3, b,owl,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,5, structure, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,6, that, connects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,7, enc,shield,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,8,ases, fibers,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,11, responsible,ponsible,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,12, for, digestion,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,13, thinking,的大脑,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,14, and, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,17,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,0,Fact, Fact,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,2, The, Largest,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,3, b,bs,6
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,4,ony, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,7, enc, surrounds,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,8,ases, fibers,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,10, organ, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,12, for, digestion,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,14, and, consciousness,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,15, memory, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,18,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,0,Fact,oring,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,2, The, Pentagon,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,3, b,bs,3
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,4,ony, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,5, structure, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,7, enc, surrounds,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,8,ases, fibers,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,10, organ, tissues,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,12, for, digestion,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,14, and, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,15, memory, storage,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,19,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,0,Fact,oring,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,2, The, World,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,3, b,oring,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,4,ony, structures,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,5, structure, formed,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,7, enc,loses,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,8,ases, organs,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,9, the, bones,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,10, organ, tissues,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,12, for, producing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,13, thinking, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,14, and, memory,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,15, memory, storage,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,20,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,0,Fact,oring,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,1,:, Humans,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,2, The, average,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,3, b,ulk,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,4,ony, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,5, structure, of,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,7, enc,loses,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,8,ases, the,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,9, the, spinal,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,10, organ, tissues,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,12, for, producing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,13, thinking, is,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,14, and, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,15, memory, storage,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,21,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,0,Fact,oring,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,1,:, The,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,2, The, United,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,3, b,ulk,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,4,ony, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,5, structure, of,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,6, that, protects,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,7, enc,loses,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,8,ases, the,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,9, the, bone,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,10, organ, is,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,12, for, producing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,13, thinking, is,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,14, and, feeling,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,15, memory, processing,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,22,jacobian_lens,17, the, brain,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,0,Fact,oring,1
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,1,:, The,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,2, The, number,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,3, b,ary,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,4,ony, structure,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,5, structure, of,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,6, that, is,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,7, enc,loses,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,8,ases, the,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,9, the, heart,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,10, organ, is,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,11, responsible, for,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,12, for, the,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,13, thinking, and,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,14, and, memory,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,15, memory, is,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,16, is, called,0
+example_005,organ-location-brain,organ-location,Fact: The bony structure that encases the organ responsible for thinking and memory is the,23,model_output,17, the, brain,0
