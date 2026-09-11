@@ -1,0 +1,23 @@
+{
+  "branch": "melody-week2",
+  "category": "Age",
+  "model": "Qwen/Qwen3.5-0.8B",
+  "lens_repo": "neuronpedia/jacobian-lens",
+  "lens_revision": "qwen-n1000",
+  "lens_file": "qwen3.5-0.8b/jlens/Salesforce-wikitext/Qwen3.5-0.8B_jacobian_lens.pt",
+  "runner_path": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/scripts/run_week2_experiment.py",
+  "checkpoint_dir": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/results/checkpoints",
+  "manifest_path": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/results/week2_completed_prompts.json",
+  "raw_csv_path": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/results/week2_raw_results.csv",
+  "memory_log_path": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/results/week2_memory_log.jsonl",
+  "notebook_path": "/Users/vv/Desktop/JLens-project/j-lens-bias/Week 2/submissions/MelodyResearch_week_2.ipynb",
+  "rank_gap_definition": "rank_gap = counter_rank - stereotype_rank (positive = stereotype ranks stronger)",
+  "top_k": 20,
+  "timestamp": 1789117501.2976809,
+  "needs_finalization": false,
+  "stopped_reason": null,
+  "completed_prompts": 40,
+  "remaining_prompts": 0,
+  "sanity_only": false,
+  "max_base_items": 10
+}
