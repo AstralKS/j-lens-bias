@@ -1,0 +1,361 @@
+example_id,example_name,category,prompt,layer,readout,position,source_token,top1_token,rank
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,1,:,colon,61
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,2, The,e,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,4, of,a,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,5, the, east,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,8, with,er,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,10, number, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,11, ,rides,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,0,jacobian_lens,14, is, being,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,1,:,flu,29
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,2, The, Crown,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,4, of,a,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,5, the, south,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,8, with,er,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,10, number, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,11, , sea,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,12,7,ed,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,1,jacobian_lens,14, is, being,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,1,:,黄花,10
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,2, The, Forest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,4, of,a,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,5, the, color,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,8, with,er,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,10, number, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,11, ,3,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,2,jacobian_lens,14, is, being,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,1,:, NYT,24
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,2, The, Forest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,4, of, silver,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,5, the, flowers,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,8, with,er,9
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,10, number, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,11, , sea,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,3,jacobian_lens,14, is, being,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,1,:, NYT,17
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,2, The, Crown,3
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,8, with,er,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,11, ,2,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,4,jacobian_lens,14, is, being,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,1,:, Fact,9
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,2, The, Crown,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,8, with,er,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,11, , sea,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,5,jacobian_lens,14, is, mercury,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,0,Fact, itself,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,1,:, Fact,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,2, The, Crown,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,8, with,er,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,11, ,2,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,6,jacobian_lens,14, is, mercury,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,1,:, Fact,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,2, The, Crown,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,8, with,er,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,11, ,1,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,7,jacobian_lens,14, is, coins,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,0,Fact,adro,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,1,:, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,2, The, Crown,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,4, of, color,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,8, with,er,5
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,11, ,1,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,8,jacobian_lens,14, is, coins,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,0,Fact, Property,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,1,:, Facts,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,2, The, Science,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,3, color, color,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,8, with,er,13
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,11, ,5,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,9,jacobian_lens,14, is, mercury,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,0,Fact,eur,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,1,:, Facts,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,2, The, People,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,8, with,er,21
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,11, ,5,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,12,7,s,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,10,jacobian_lens,14, is, mercury,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,0,Fact, Fact,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,1,:, Facts,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,2, The, British,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,8, with,er,23
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,10, number, Atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,11, ,5,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,12,7,eus,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,13,9, titanium,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,11,jacobian_lens,14, is, mercury,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,1,:, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,2, The, British,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,5, the, photograph,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,8, with, copper,26
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,10, number, Atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,11, ,5,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,12,7,7,3
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,12,jacobian_lens,14, is, helium,7
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,1,:, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,2, The, Museum,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,5, the, photograph,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,7, metal, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,8, with,eness,36
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,10, number, Atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,11, ,5,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,12,7,eus,10
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,13,9, titanium,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,13,jacobian_lens,14, is, color,3
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,0,Fact,dpa,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,1,:, Facts,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,2, The, Tree,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,4, of, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,5, the, flowers,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,6, precious, precious,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,7, metal, metals,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,8, with, copper,22
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,10, number,编号,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,11, ,5,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,12,7,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,13,9,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,14,jacobian_lens,14, is, Color,33
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,1,:, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,2, The, University,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,3, color, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,4, of, jewelry,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,5, the, flowers,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,6, precious, jewellery,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,7, metal, metals,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,8, with, copper,11
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,10, number, nuclear,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,11, ,5,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,12,7,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,13,9, helium,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,15,jacobian_lens,14, is, colors,40
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,2, The, University,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,3, color, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,6, precious, jewellery,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,8, with, mineral,2
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,10, number, Atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,11, ,atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,12,7,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,13,9, titanium,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,16,jacobian_lens,14, is, titanium,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,2, The, Pentagon,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,6, precious, jewellery,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,8, with, chemical,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,11, ,镍,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,12,7,adium,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,13,9, is,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,17,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,0,Fact, Fact,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,2, The, Largest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,6, precious, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,8, with, highest,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,10, number, Z,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,11, , Zinc,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,12,7,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,13,9, Zinc,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,18,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,0,Fact,oring,3
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,2, The, Pentagon,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,5, the, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,6, precious, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,7, metal, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,8, with, highest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,9, atomic, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,10, number, atomic,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,11, , Zinc,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,12,7,8,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,13,9, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,19,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,0,Fact,oring,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,2, The, World,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,3, color, color,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,4, of, colors,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,5, the, sky,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,6, precious, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,7, metal, alloys,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,8, with, highest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,9, atomic, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,10, number, Z,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,11, ,8,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,12,7,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,13,9, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,20,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,0,Fact,oring,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,1,:, Humans,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,2, The, average,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,3, color, palette,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,4, of, flowers,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,5, the, sky,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,6, precious, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,7, metal, alloys,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,8, with, highest,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,9, atomic, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,10, number, Z,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,11, ,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,12,7,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,13,9, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,21,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,0,Fact,oring,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,1,:, The,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,2, The, United,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,3, color, palette,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,4, of, the,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,5, the, sky,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,6, precious, metals,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,7, metal, used,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,8, with, the,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,9, atomic, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,10, number, Z,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,11, ,7,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,12,7,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,13,9, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,22,jacobian_lens,14, is, gold,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,0,Fact,oring,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,1,:, The,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,2, The, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,3, color, of,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,4, of, the,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,5, the, sky,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,6, precious, metal,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,7, metal, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,8, with, the,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,9, atomic, number,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,10, number, Z,1
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,11, ,1,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,12,7,9,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,13,9, is,0
+example_004,element-color-gold2,element-color,Fact: The color of the precious metal with atomic number 79 is,23,model_output,14, is, yellow,0
