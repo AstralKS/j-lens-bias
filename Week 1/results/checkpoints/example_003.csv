@@ -1,0 +1,457 @@
+example_id,example_name,category,prompt,layer,readout,position,source_token,top1_token,rank
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,1,:,colon,61
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,2, The,e,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,3, country, country,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,4, whose, connexion,3
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,7, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,8, the, name,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,10, with,er,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,11, the, sea,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,13, head, head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,14, on,screen,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,15, the, sea,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,16, Great,s,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,0,jacobian_lens,18, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,1,:,flu,29
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,2, The, Crown,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,4, whose, فى,4
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,7, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,8, the, series,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,10, with,er,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,11, the,kh,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,13, head, head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,14, on,screen,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,15, the, sea,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,16, Great, Great,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,1,jacobian_lens,18, is, being,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,1,:,黄花,10
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,2, The, Forest,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,4, whose, whose,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,7, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,8, the, mother,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,10, with,er,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,13, head,head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,14, on,screen,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,15, the, south,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,2,jacobian_lens,18, is, being,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,1,:, NYT,24
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,2, The, Forest,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,4, whose, neighbouring,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,7, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,8, the,gypt,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,10, with,er,6
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,11, the, roots,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,13, head, head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,14, on,screen,4
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,15, the, sea,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,3,jacobian_lens,18, is, being,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,1,:, NYT,17
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,2, The, Crown,3
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,4, whose, colours,3
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,7, is, being,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,8, the, American,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,10, with,er,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,11, the, photos,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,13, head, head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,14, on, on,5
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,15, the, south,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,4,jacobian_lens,18, is, being,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,1,:, Fact,9
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,2, The, Crown,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,4, whose, neighbouring,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,7, is, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,8, the, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,10, with, photos,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,13, head,head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,14, on, wearing,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,15, the, photo,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,5,jacobian_lens,18, is, also,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,0,Fact, itself,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,1,:, Fact,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,2, The, Crown,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,4, whose, neighbouring,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,7, is, flag,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,8, the, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,13, head, heads,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,14, on, wearing,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,15, the, photo,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,6,jacobian_lens,18, is, flag,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,1,:, Fact,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,2, The, Crown,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,4, whose, colours,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,7, is, renov,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,8, the, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,13, head, heads,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,14, on, wearing,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,15, the, photo,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,7,jacobian_lens,18, is, country,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,0,Fact,adro,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,1,:, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,2, The, Crown,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,3, country, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,4, whose, kingdoms,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,13, head, heads,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,14, on, worn,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,15, the, photo,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,8,jacobian_lens,18, is, continent,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,0,Fact, Property,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,1,:, Facts,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,2, The, Science,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,4, whose, kingdoms,6
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,7, is, coins,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,13, head, heads,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,14, on, wearing,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,15, the, photo,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,16, Great, Great,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,9,jacobian_lens,18, is, flag,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,0,Fact,eur,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,1,:, Facts,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,2, The, People,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,4, whose, nickname,14
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,13, head, head,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,14, on,鹰,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,15, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,10,jacobian_lens,18, is, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,0,Fact, Fact,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,1,:, Facts,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,2, The, British,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,4, whose, nickname,8
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,13, head,head,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,14, on, Eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,15, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,16, Great, Great,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,11,jacobian_lens,18, is, country,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,1,:, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,2, The, British,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,4, whose, nickname,8
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,13, head,head,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,14, on, worn,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,15, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,12,jacobian_lens,18, is, country,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,1,:, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,2, The, Museum,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,4, whose, nickname,8
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,10, with, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,11, the, photos,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,13, head,head,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,14, on, Mount,10
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,15, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,16, Great, Great,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,13,jacobian_lens,18, is, United,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,0,Fact,dpa,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,1,:, Facts,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,2, The, Tree,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,4, whose, nickname,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,5, national, national,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,6, emblem, emblem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,7, is, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,8, the, photograph,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,10, with, photos,5
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,12, white, white,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,13, head,head,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,14, on, Mount,9
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,15, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,16, Great, Giant,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,14,jacobian_lens,18, is, Name,10
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,1,:, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,2, The, University,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,4, whose, name,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,7, is, depicted,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,8, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,12, white, white,3
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,13, head,head,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,14, on, blue,11
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,15, the, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,16, Great,coat,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,15,jacobian_lens,18, is, Pakistan,14
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,2, The, University,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,4, whose, name,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,7, is, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,8, the, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,12, white, white,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,13, head, and,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,14, on, its,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,15, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,16,jacobian_lens,18, is, Honduras,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,2, The, Pentagon,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,4, whose, headquarters,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,5, national, national,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,7, is, depicted,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,8, the, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,9, bird, bird,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,10, with, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,13, head, feathers,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,14, on, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,15, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,16, Great, Tree,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,17,jacobian_lens,18, is, Pakistan,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,0,Fact, Fact,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,2, The, Largest,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,3, country, countries,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,4, whose, nickname,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,7, is, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,8, the, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,10, with, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,13, head, feathers,2
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,14, on, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,15, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,17, Seal, Seal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,18,jacobian_lens,18, is, France,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,0,Fact,oring,3
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,2, The, Pentagon,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,3, country, Kazakhstan,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,4, whose, nickname,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,7, is, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,8, the, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,9, bird, bird,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,13, head, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,14, on, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,15, the, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,17, Seal, Medal,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,19,jacobian_lens,18, is, France,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,0,Fact,oring,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,2, The, World,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,3, country, Kazakhstan,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,4, whose, capital,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,6, emblem, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,7, is, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,8, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,9, bird, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,13, head, and,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,14, on, blue,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,15, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,17, Seal, of,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,20,jacobian_lens,18, is, France,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,0,Fact,oring,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,1,:, Humans,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,2, The, average,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,3, country, Pakistan,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,4, whose, capital,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,6, emblem, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,7, is, depicted,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,8, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,9, bird, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,13, head, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,14, on, black,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,15, the, black,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,17, Seal, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,21,jacobian_lens,18, is, Canada,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,0,Fact,oring,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,1,:, The,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,2, The, United,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,3, country, with,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,4, whose, capital,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,6, emblem, consists,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,7, is, a,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,8, the, eagle,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,9, bird, symbol,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,10, with, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,12, white, feathers,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,13, head, and,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,14, on, its,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,15, the, black,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,16, Great, Pyramid,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,17, Seal, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,22,jacobian_lens,18, is, United,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,0,Fact,oring,1
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,1,:, The,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,2, The, number,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,3, country, of,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,4, whose, capital,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,5, national, anthem,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,6, emblem, is,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,7, is, a,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,8, the, flag,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,9, bird, of,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,10, with, the,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,11, the, wings,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,12, white, and,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,13, head, and,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,14, on, a,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,15, the, black,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,16, Great, Wall,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,17, Seal, of,0
+example_003,bird-country-eagle,bird-country,Fact: The country whose national emblem is the bird with the white head on the Great Seal is,23,model_output,18, is, the,0
