@@ -1,0 +1,16 @@
+{"tag": "pre_run", "ts": 1789113180.842955, "free_pct": 75, "swap_used_mb": 3562.19}
+{"tag": "post_model_load", "ts": 1789113268.985062, "free_pct": 70, "swap_used_mb": 3554.19}
+{"tag": "pre_run", "ts": 1789113280.318652, "free_pct": 77, "swap_used_mb": 3554.19}
+{"tag": "post_model_load", "ts": 1789113284.389437, "free_pct": 74, "swap_used_mb": 3554.19}
+{"tag": "after_example_001", "ts": 1789113287.30824, "free_pct": 76, "swap_used_mb": 3554.19}
+{"tag": "pre_run", "ts": 1789113372.987898, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "post_model_load", "ts": 1789113376.7983098, "free_pct": 75, "swap_used_mb": 3546.19}
+{"tag": "after_example_001", "ts": 1789113379.029088, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "pre_run", "ts": 1789113387.862401, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "post_model_load", "ts": 1789113391.728725, "free_pct": 74, "swap_used_mb": 3546.19}
+{"tag": "after_example_002", "ts": 1789113394.314782, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "after_example_003", "ts": 1789113395.9836009, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "pre_run", "ts": 1789113400.134822, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "post_model_load", "ts": 1789113403.866994, "free_pct": 71, "swap_used_mb": 3546.19}
+{"tag": "after_example_004", "ts": 1789113406.033727, "free_pct": 78, "swap_used_mb": 3546.19}
+{"tag": "after_example_005", "ts": 1789113407.532062, "free_pct": 72, "swap_used_mb": 3546.19}

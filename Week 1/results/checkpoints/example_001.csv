@@ -1,0 +1,361 @@
+example_id,example_name,category,prompt,layer,readout,position,source_token,top1_token,rank
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,1,:,colon,61
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,2, The,e,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,5, in, place,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,6, the, Americans,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,7, country, Country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,9, the,e,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,12, ends, Ends,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,13, is, being,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,0,jacobian_lens,14, ,sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,1,:,flu,29
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,2, The, Crown,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,5, in, place,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,6, the, south,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,9, the, sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,12, ends, Ends,5
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,13, is, being,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,1,jacobian_lens,14, ,sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,1,:,黄花,10
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,2, The, Forest,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,5, in, place,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,6, the, place,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,9, the, people,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,12, ends, ending,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,13, is, being,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,2,jacobian_lens,14, , sea,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,1,:, NYT,24
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,2, The, Forest,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,5, in, place,6
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,6, the, families,11
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,9, the, people,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,12, ends, ending,9
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,13, is, being,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,3,jacobian_lens,14, , sea,4
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,1,:, NYT,17
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,2, The, Crown,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,5, in, Iraq,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,6, the, Iraq,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,9, the, people,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,12, ends, ends,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,13, is, being,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,4,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,1,:, Fact,9
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,2, The, Crown,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,5, in, Iraq,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,6, the, tribes,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,9, the, people,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,12, ends, ending,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,13, is, river,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,5,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,0,Fact, itself,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,1,:, Fact,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,2, The, Crown,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,8, where, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,9, the, people,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,12, ends, ending,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,13, is, islands,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,6,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,1,:, Fact,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,2, The, Crown,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,8, where, countries,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,9, the, people,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,12, ends,终点,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,13, is, cities,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,7,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,0,Fact,adro,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,1,:, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,2, The, Crown,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,9, the, Africans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,12, ends,终点,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,13, is, cities,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,8,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,0,Fact, Property,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,1,:, Facts,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,2, The, Science,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,9, the, Americans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,12, ends,终点,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,13, is, continent,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,9,jacobian_lens,14, , sea,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,0,Fact,eur,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,1,:, Facts,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,2, The, People,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,9, the, Americans,5
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,12, ends,终点,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,13, is, cities,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,10,jacobian_lens,14, , sea,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,0,Fact, Fact,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,1,:, Facts,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,2, The, British,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,5, in, town,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,9, the, Americans,4
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,12, ends,终点,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,13, is, indigenous,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,11,jacobian_lens,14, , sea,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,1,:, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,2, The, British,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,5, in, Iraq,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,9, the, race,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,10, Amazon, Amazon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,12, ends, terminates,9
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,13, is, indigenous,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,12,jacobian_lens,14, , million,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,1,:, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,2, The, Museum,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,5, in, Iraq,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,7, country, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,8, where, UNESCO,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,9, the, country,4
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,12, ends, terminates,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,13, is, Spanish,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,13,jacobian_lens,14, , million,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,0,Fact,dpa,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,1,:, Facts,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,2, The, Tree,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,4, spoken, spoken,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,5, in, Vietnam,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,7, country, Country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,8, where, UNESCO,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,9, the, presidents,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,12, ends, terminates,5
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,13, is,叫什么,6
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,14,jacobian_lens,14, ,7,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,1,:, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,2, The, University,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,4, spoken, by,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,5, in, Vietnam,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,6, the, Kingdom,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,7, country, countries,2
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,8, where, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,9, the, dinosaurs,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,12, ends, is,23
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,13, is,叫什么,21
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,15,jacobian_lens,14, ,7,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,2, The, University,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,4, spoken, languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,5, in, classrooms,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,6, the, Kingdom,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,7, country, countries,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,8, where, Nigeria,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,9, the, dinosaurs,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,12, ends, is,10
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,13, is, Languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,16,jacobian_lens,14, , languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,2, The, Pentagon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,4, spoken, languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,5, in, classrooms,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,6, the, regions,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,7, country, Country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,8, where, humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,9, the, dinosaurs,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,12, ends, is,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,13, is, Language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,17,jacobian_lens,14, , languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,0,Fact, Fact,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,2, The, Largest,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,4, spoken, languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,5, in, Regions,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,7, country, Country,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,8, where, humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,9, the, volcano,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,10, Amazon,雨林,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,11, River, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,12, ends, is,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,13, is, Language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,18,jacobian_lens,14, ,9,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,0,Fact,oring,3
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,2, The, Pentagon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,3, language, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,4, spoken, languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,5, in, England,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,6, the, region,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,7, country, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,8, where, Elon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,9, the, politician,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,10, Amazon, forests,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,11, River, flows,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,12, ends, is,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,13, is, language,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,19,jacobian_lens,14, ,9,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,0,Fact,oring,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,2, The, World,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,3, language, syntax,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,4, spoken, languages,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,5, in, England,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,6, the, Kingdom,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,7, country, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,8, where, Elon,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,9, the, nation,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,10, Amazon, river,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,11, River, flows,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,12, ends, is,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,13, is, Portuguese,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,20,jacobian_lens,14, ,9,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,0,Fact,oring,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,1,:, Humans,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,2, The, average,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,3, language, model,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,4, spoken, by,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,5, in, Australia,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,6, the, Kingdom,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,7, country, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,8, where, the,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,9, the, country,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,10, Amazon, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,11, River, flows,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,12, ends, is,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,13, is, Portuguese,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,21,jacobian_lens,14, ,9,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,0,Fact,oring,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,1,:, The,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,2, The, United,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,3, language, model,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,4, spoken, by,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,5, in, the,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,6, the, United,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,7, country, where,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,8, where, the,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,9, the, city,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,10, Amazon, River,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,11, River, flows,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,12, ends, is,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,13, is, Spanish,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,22,jacobian_lens,14, ,9,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,0,Fact,oring,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,1,:, The,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,2, The, number,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,3, language, of,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,4, spoken, by,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,5, in, the,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,6, the, United,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,7, country, of,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,8, where, the,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,9, the, first,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,10, Amazon, is,1
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,11, River, flows,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,12, ends, is,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,13, is, called,0
+example_001,amazon-language,multihop,Fact: The language spoken in the country where the Amazon River ends is ,23,model_output,14, ,1,0
