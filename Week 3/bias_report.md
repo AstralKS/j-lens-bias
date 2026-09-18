@@ -56,7 +56,7 @@ Below are the numerical probabilities extracted at key layers where the model's 
 
 The graph below visualizes the Bias Differential across all layers. Notice how the "Decision Point" shifts to the left (earlier in the network) as the pressure increases.
 
-![Bias Evolution Graph](/home/dlcv/Desktop/j_lens/ideas/idea2_sandbox/bias_evolution_graph.png)
+![Bias Evolution Graph](bias_evolution_graph_5turns.png)
 
 ### Conclusion & Evidence
 1.  **Bias Exists and is Amplified by Pressure:** The final output probabilities clearly show the model favoring "she" for the nurse in all scenarios, but the margin grows drastically under pressure (from +0.29 to +0.43).
